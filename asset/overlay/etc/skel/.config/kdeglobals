@@ -1,6 +1,6 @@
 [General]
 AllowKDEAppsToRememberWindowPositions=false
-ColorScheme=BreezeDark
+ColorScheme=LayanLight
 XftSubPixel=none
 fixed=Monospace,12,-1,5,50,0,0,0,0,0
 font=Sans Serif,12,-1,5,50,0,0,0,0,0
@@ -9,13 +9,13 @@ smallestReadableFont=Sans Serif,10,-1,5,50,0,0,0,0,0
 toolBarFont=Sans Serif,11,-1,5,50,0,0,0,0,0
 
 [Icons]
-Theme=breeze-dark
+Theme=Citrus-red
 
 [KDE]
-LookAndFeelPackage=org.kde.breezedark.desktop
+LookAndFeelPackage=com.github.vinceliuice.Layan-light
 ShowDeleteCommand=true
 SingleClick=false
-widgetStyle=Breeze
+widgetStyle=kvantum
 
 [WM]
 activeBackground=49,54,59
